@@ -14,3 +14,4 @@ O pojeto possui trés arquivos js um para criar as interações da api, um para 
  2° - getPokemonDetail(pokemon)/
  3° - convertPokeApiDetailToPokemon(pokeDetail)
  
+### Reposividade para tela cheia de pc e iphone xr
